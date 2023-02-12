@@ -1,0 +1,4 @@
+[mruby]
+name = "mruby"
+desc = "Embedded Ruby"
+more = "Initial release in 2012"
